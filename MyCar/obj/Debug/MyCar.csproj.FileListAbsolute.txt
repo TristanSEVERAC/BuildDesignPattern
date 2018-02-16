@@ -1,0 +1,6 @@
+D:\Master 2\Design Patterns\Design Builder\MyCar\MyCar\bin\Debug\MyCar.exe.config
+D:\Master 2\Design Patterns\Design Builder\MyCar\MyCar\bin\Debug\MyCar.exe
+D:\Master 2\Design Patterns\Design Builder\MyCar\MyCar\bin\Debug\MyCar.pdb
+D:\Master 2\Design Patterns\Design Builder\MyCar\MyCar\obj\Debug\MyCar.csprojResolveAssemblyReference.cache
+D:\Master 2\Design Patterns\Design Builder\MyCar\MyCar\obj\Debug\MyCar.exe
+D:\Master 2\Design Patterns\Design Builder\MyCar\MyCar\obj\Debug\MyCar.pdb
